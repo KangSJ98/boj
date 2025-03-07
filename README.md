@@ -8,6 +8,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
+|10172. 개|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10172.%E2%80%85%EA%B0%9C/README.md)|
 |25083. 새싹|[링크](./%EB%B0%B1%EC%A4%80/Bronze/25083.%E2%80%85%EC%83%88%EC%8B%B9/README.md)|
 |27866. 문자와 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%99%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
 |31403. $A ＋ B － C$|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/README.md)|
