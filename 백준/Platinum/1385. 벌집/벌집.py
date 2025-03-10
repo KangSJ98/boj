@@ -91,8 +91,6 @@ def find_n(x,y,z):
 
 ax, ay, az = find_xyz(a)
 bx, by, bz = find_xyz(b)
-ax, ay, az = make_zero(ax, ay, az)
-bx, by, bz = make_zero(bx, by, bz)
 
 dx = bx - ax
 dy = by - ay
