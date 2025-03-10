@@ -1,3 +1,5 @@
+import math
+
 a, b = map(int, input().split())
 
 def find_xyz(n):
@@ -13,13 +15,15 @@ def find_xyz(n):
     if n == 1:
         return 0, 0, 0
     else:
-        shell = 1
-        while True:
-            shell_start = int(6 * (shell * (shell - 1) / 2) + 1)
-            if (shell_start < n) and (n < shell_start + 6 * shell + 1):
-                break
-            else:
-                shell += 1
+        # shell = 1
+        # while True:
+        #     shell_start = int(6 * (shell * (shell - 1) / 2) + 1)
+        #     if (shell_start < n) and (n < shell_start + 6 * shell + 1):
+        #         break
+        #     else:
+        #         shell += 1
+        shell = math.ceil(float((math.sqrt(4 / 3 * (n-1) + 1) - 1) / 2))
+        shell_start = int(6 * (shell * (shell - 1) / 2) + 1)
 
     # 구역 찾기
     '''
