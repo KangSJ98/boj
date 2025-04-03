@@ -7,15 +7,7 @@ using namespace std;
 
 int t, k, n;
 
-int people(int x, int y){
-    if (x == 1){
-        return 1;
-    }
-    if (y == 0){
-        return  x;
-    }
-    return people(x-1, y) + people(x, y-1);
-}
+int people[15];
 
 int main(void){
     fastio;
@@ -25,6 +17,14 @@ int main(void){
         t--;
         cin>>k>>n;
 
-        cout<<people(n,k)<<endl;
+        rep(i, 1, n+1){
+            people[i] = i;
+        }
+        rep(i, 0, k){
+            rep(j, 1, n+1){
+                people[j] = people[j] + people[j-1];
+            }
+        }
+        cout<<people[n]<<"\n";
     }
 }
