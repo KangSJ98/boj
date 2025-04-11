@@ -41,6 +41,7 @@
 |5717. 상근이의 친구들|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5717.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EA%B5%AC%EB%93%A4/README.md)|
 |6131. 완전 제곱수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6131.%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98/README.md)|
 |6376. e 계산|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6376.%E2%80%85e%E2%80%85%EA%B3%84%EC%82%B0/README.md)|
+|7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/README.md)|
 |9610. 사분면|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9610.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4/README.md)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
