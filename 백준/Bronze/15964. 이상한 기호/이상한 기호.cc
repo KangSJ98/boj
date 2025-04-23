@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int a, b;
+long long int a, b;
 
 int main(void){
     fastio;
